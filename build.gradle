@@ -74,6 +74,7 @@ compileJava {
 }
 shadowJar {
     outputs.upToDateWhen { false }
+    archiveClassifier.set('')
 }
 
 
