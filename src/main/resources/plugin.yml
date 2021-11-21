@@ -1,0 +1,7 @@
+name: AppleUtilityLibraries
+version: "1.0"
+api-version: "1.17"
+authors: [ 'Apple' ]
+main: apple.utility.libraries.AppleUtilityLibraries
+description: a starter plugin to learn how to program
+softdepend: [ ]
