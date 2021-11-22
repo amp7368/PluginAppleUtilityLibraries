@@ -1,0 +1,9 @@
+name: AppleLibrariesExample
+version: 1.0
+main: apple.utility.libraries.VoltskiyaPluginExample
+api-version: 1.16
+authors: [ appleptr16 ]
+softdepend: [ AppleUtilityLibraries ]
+commands:
+  config:
+    description: "example plugin to set properties about plugins"
